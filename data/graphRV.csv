@@ -1,0 +1,8 @@
+r,w,name
+1,0.15,Latency
+2,0.15,RWspeed
+3,0.15,DataCapability
+4,0.15,WindowsIntegration
+5,0.15,HighReliablity
+6,0.1,EaseOfUse
+7,0.15,WindowsCapability
