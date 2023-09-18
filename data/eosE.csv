@@ -1,4 +1,4 @@
-u,v,kappa,t_kappa,theta,t_theta,$\sigma$
+u,v,kappa,$\tilde\kappa$,theta,$\tilde\vartheta$,$\sigma$
 1,6,28,1,2,1,0.1
 1,7,35,1,40,1,0.05
 1,8,27,1,11,0,0.07
