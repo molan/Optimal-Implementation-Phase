@@ -1,4 +1,4 @@
-v,kappa,t_kappa,theta,t_theta,sigma,x_position,y_position
+v,kappa,t_kappa,theta,t_theta,$\sigma$,x_position,y_position
 1,30,1,10,0,0.15,1,1
 2,25,1,8,1,0.15,1.5,0
 3,15,1,5,1,0.1,2,1
